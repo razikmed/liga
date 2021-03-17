@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=vsaClient/4.0.6
+http://23.237.32.130/hls/BEINLALIGAENG.m3u8
